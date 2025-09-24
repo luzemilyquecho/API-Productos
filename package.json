@@ -1,0 +1,24 @@
+{
+  "name": "api-productos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzemilyquecho/API-Productos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luzemilyquecho/API-Productos/issues"
+  },
+  "homepage": "https://github.com/luzemilyquecho/API-Productos#readme",
+  "description": "",
+  "dependencies": {
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
