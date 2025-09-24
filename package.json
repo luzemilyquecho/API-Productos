@@ -4,7 +4,7 @@
   "description": "API de productos con autenticación JWT para prácticas en clase",
   "main": "api_producto.js",
   "scripts": {
-    "start": "node api_producto.js"
+    "start": "node src/api_producto.js"
   },
   "keywords": [
     "api",
